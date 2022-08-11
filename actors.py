@@ -1,5 +1,4 @@
 import json
-import re
 
 movies_data = json.loads(open('data.json').read())
 
