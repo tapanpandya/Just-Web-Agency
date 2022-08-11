@@ -1,5 +1,7 @@
 # Marvel Movies
 
+Following task has been completed using Python 3.10.6 version and by using in-built python library json to read the json data.
+
 ## The Task
 
 Write a Python script that would read the `data.json` file and print the name of the actor, the number of movies they starred in, and the average rating of all the movies they starred in. Do not print actors that starred in less than 2 movies. The output should be printed in an ascending order by the total number of movies.
@@ -54,14 +56,3 @@ Star Name: 'Robert Downey Jr.'       | Movies:  9 | AVG Rating: 7.70
 Star Name: 'Chris Evans'             | Movies:  9 | AVG Rating: 7.31
 ```
 
-## Evaluation
-
-Your code will be evaluated using the following criteria:
-
-- Code simplicity, cleanliness, organization, and readability
-- Data structures and algorithms used
-- Correctness of the output
-
-## How to Submit Your Solution?
-
-Create a new Git repository either on GitHub or GitLab, and make all your commits there. When ready, send a link to the repository as a reply to the message we sent you on Indeed. If you make the repo private, please remember to grant read permissions and send an invitation link to `kiro@justwebagency.com`.
